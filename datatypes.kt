@@ -1,0 +1,12 @@
+fun main()
+{
+    var  a: Int =45 //integer
+    //decimal with less precission
+    var d: Double =2.34534534534634 //deciaml with more precision
+    var c: String="tejaswee"
+    var e: Char ='e'
+    println(a)
+    println(c)
+    println(d)
+    println(e)
+}
