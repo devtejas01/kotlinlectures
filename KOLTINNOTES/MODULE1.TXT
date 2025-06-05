@@ -1,0 +1,48 @@
+
+                                  MODULE 1 
+kotlin is a mordern language which is used to create android apps
+variable are of two type 
+1st (var) mutable means the value can be change val is that type of variable
+2nd (val) inmutable means the value cant be changed so we var is that type of variable whose value cant be changed
+kotlin automaticaly understand what type of data are we going to store in the variable
+but if we want to define the variable explicatly we use var/val kaku:String=kaku
+
+//simple kotlin code
+fun main()
+{
+println("enter your name")
+val name=readln()
+println("your name is $name")
+}
+//output 
+enter your name
+tejaswee
+your name is tejaswee
+
+questions 
+q1)Kotlin mein immutable variable kaunsa keyword se banta hai?
+val use krke inmutable variables bana skte hain
+q2)Ye code kya print karega?
+val x = 5
+val y = 10
+println(x + y)
+
+//output
+15
+📱 App Idea (Mini App):
+You can create a simple app that asks user's name and age and shows a greeting like:
+code of the app goes like
+fun main()
+{
+    println("enter your name")
+    val name =readln()
+    println("enter your age")
+    var age =readln()
+    println("your name is : $name")
+    println("your age is : $age")
+
+}
+
+
+
+

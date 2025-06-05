@@ -1,0 +1,22 @@
+functions are of three type 
+with parameters 
+fun withparamters(a:Int,b:Int)
+{
+
+}
+without parameters
+fun withoutparameters()
+{
+
+}
+with return type
+fun withreturntype():Int
+{
+
+}
+when ---> equivalent of swithc case
+
+when(score)
+{
+    in 90..100
+}

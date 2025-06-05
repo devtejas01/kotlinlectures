@@ -9,4 +9,6 @@ fun main()
     println(c)
     println(d)
     println(e)
+    /*usually it will take the required the variable type by itself only there is no need to put extra efforts or 
+explicitly defining the data type */
 }
